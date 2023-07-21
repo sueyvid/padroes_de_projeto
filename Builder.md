@@ -10,7 +10,7 @@ Instanciar objetos com muitos parâmetros ou criar muitas sub-classes para atend
 
 ## Solução
 
-Permite a separaçã0 do código de criação do código de implementação do objeto. 
+O padrão Builder sugere a separaçã0 do código de criação do código de implementação do objeto, o código de criação é extraído para um objeto chamado builder.
 
 ## Diretor
 
